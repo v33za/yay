@@ -32,6 +32,7 @@ Queue q;
         if(price=0)
         {
           cout<<"Come again next time."<<endl;
+          break;
         }
         else
         {
